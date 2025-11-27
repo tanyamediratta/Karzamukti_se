@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465726091439",
+    "project_id": "karzamukti-d7974",
+    "storage_bucket": "karzamukti-d7974.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465726091439:android:64a117f80d33be761ea45a",
+        "android_client_info": {
+          "package_name": "com.example.karzamukti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiviL2Gzlh8EBRha4FlrjvCmrDL2StSNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
