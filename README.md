@@ -1,16 +1,10 @@
-# karzamukti_
+🌾 KarzaMukti – Digital Loan & Debt Management System
 
-A new Flutter project.
+A financial empowerment platform for Indian farmers
 
-## Getting Started
+📌 Overview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+KarzaMukti is a digital debt-management ecosystem designed to help farmers track loans, manage repayments, and access government or financial-institution schemes with ease.
+The platform also provides dashboards for government bodies & financial institutions for analytics, loan approvals, and policy insights.
+It also provides basic Admin Features (eg, Ability to change roles) on a seperate dashboard.
+This repository contains the Flutter Mobile App and uses Supabase as its backend.
